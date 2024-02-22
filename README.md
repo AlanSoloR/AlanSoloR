@@ -14,7 +14,8 @@
 
 In this project I analyzed the crimes committed in Mexico between 2015-2023 to detect behaviors and possible trends of different crimes by year, month and the number of crimes by state.
 
-I used Python to perform this analysis with the help of tools such as Pandas, Numpy, Seaborn and Matplotlib.
+I used Python to perform this analysis with the help of libraries like Pandas and Numpy to import and control the data with dataframes and also to use differente function like group_by and pivot_tables.
+I also used Seaborn and Matplotlib to create charts and heatmaps to understand better the possible relations between crimes and years or months.
 
 <!---
 AlanSoloR/AlanSoloR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
