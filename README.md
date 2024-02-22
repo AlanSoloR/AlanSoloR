@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Alan Solorzano and I'm a Computer Engineer with a passion for data analysis.
 
-👀 I’m interested in different areas of data analysis such as Machine Learning.
+👀 I’m interested in different areas of data analysis such as Exploratory Data Analysis and Machine Learning.
 
 🌱 I’m currently learning and preparing my portfolio to show my skills in different tools such as Python, Excel, SQL and Power BI.
 
