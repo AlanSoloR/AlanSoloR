@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning and preparing my portfolio to show my skills in different tools such as Python, Excel, SQL and Power BI.
 
-📫 How to reach me: You can find me on [Linkedin](https://www.linkedin.com/in/alan-solorzano-rosas-497396200/) or send an email to alsolor@gmail.com
+📫 How to reach me: You can find me on [Linkedin](https://www.linkedin.com/in/alan-solorzano-rosas-497396200/) or send an email to alsolora@gmail.com
 
 **PROJECTS**
 
